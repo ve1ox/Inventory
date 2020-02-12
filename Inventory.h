@@ -5,6 +5,12 @@
 using std::string;
 using std::ostream;
 
+/*Inventory Class
+ * -------------
+ *  Contains variables and methods
+ *  for objects users want to stock.
+ */
+
 class Inventory
 {
   private:
